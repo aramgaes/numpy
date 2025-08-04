@@ -1,4 +1,8 @@
 ¡Estoy feliz de hacer mi primera edición!
+Necesito aprender
+Es más complejo de lo que pensaba
+Pero quizá sólo es práctica
+También debería ver en el dashboard o en el GUI
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
@@ -18,8 +22,6 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
 [![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)
 
-
-NumPy is the fundamental package for scientific computing with Python.
 
 - **Website:** https://numpy.org
 - **Documentation:** https://numpy.org/doc
